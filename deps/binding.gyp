@@ -23,6 +23,7 @@
                 "opus/src/opus_projection_encoder.c",
                 "opus/src/analysis.c",
                 "opus/src/mlp_data.c",
+                "opus/silk/arm/NSQ_neon.c",
                 "opus/src/opus_multistream_encoder.c",
                 "opus/src/opus_projection_decoder.c",
                 "opus/src/mapping_matrix.c",
